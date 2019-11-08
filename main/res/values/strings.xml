@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="Running">Running</string>
+    <string name="Eating">Eating</string>
+    <string name="Working">Working</string>
+    <string name="Self">Self care</string>
+    <string name="Hobby">Hobby</string>
+    <string name="Dreaming">Dreaming</string>
+    <string name="Family">Family time</string>
+    <string name="Score">Score</string>
+    <string name="Result">Result</string>
+
+    <string-array name="items">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+
+
+    </string-array>
+    <string-array name="bushido">
+        <item>First of all!</item>
+        <item>Never Quit!</item>
+        <item>Do with love!</item>
+        <item>Do with passion!</item>
+        <item>Be dedicated!</item>
+        <item>Give more and more!</item>
+        <item>Rest your head!</item>
+
+
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>V</item>
+        <item>I</item>
+        <item>C</item>
+        <item>T</item>
+        <item>O</item>
+        <item>R</item>
+        <item>Y!</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
